@@ -18,7 +18,7 @@ It detects hand gestures to simulate key presses on a virtual keyboard and sends
 
 ```bash
 # Clone the repository
-git clone https://github.com/AjaoFaisal/virtual-keyboard-mediapipe.git
+git clone https://github.com/faisal-ajao/virtual-keyboard-mediapipe.git
 cd virtual-keyboard-mediapipe
 
 # Create a virtual environment (optional)
